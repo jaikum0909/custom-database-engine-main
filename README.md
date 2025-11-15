@@ -73,7 +73,7 @@ Custom Database Engine is an enterprise-grade, high-performance in-memory databa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sumit-kumar99/custom-database-engine.git
+   git clone https://github.com/jaikum0909/custom-database-engine-main.git
    cd custom-database-engine
    ```
 
@@ -173,9 +173,8 @@ COMMIT;
 
 ## Support
 
-- 📧 Email: sumitkumariiita@gmail.com
-- 📝 Issues: [GitHub Issues](https://github.com/Sumit-kumar99/custom-database-engine/issues)
-- 📖 Documentation: [Wiki](https://github.com/Sumit-kumar99/custom-database-engine/wiki)
+- 📧 Email: jaikumsabliya09@gmail.com
+
 
 
 ⭐ **Star this repository if you find it useful!**
